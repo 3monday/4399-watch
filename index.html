@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+<title>4399游戏盒 · 关注名单</title>
+<style>
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+body{margin:0;background:#f4f5f7;color:#1a1d21;
+ font:14px/1.5 -apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif}
+.wrap{max-width:760px;margin:0 auto;padding:16px 12px 48px}
+h1{font-size:19px;margin:0 0 4px;letter-spacing:-.2px}
+.sub{color:#8a8f98;font-size:12px;margin-bottom:14px}
+.sub b{color:#4b5563;font-weight:600}
+.card{background:#fff;border-radius:12px;padding:14px;margin-bottom:10px;
+ box-shadow:0 1px 2px rgba(16,24,40,.05);border:1px solid #eef0f2}
+.card.off{background:#fbfbfc;border-style:dashed}
+.top{display:flex;gap:11px;align-items:center}
+.icon{width:46px;height:46px;border-radius:10px;object-fit:cover;background:#f0f1f3;flex:0 0 46px}
+.icon.ph{display:flex;align-items:center;justify-content:center;color:#c2c6cc;font-size:17px}
+.mid{flex:1;min-width:0}
+.gname{font-size:15px;font-weight:600;margin:0 0 5px;line-height:1.3;word-break:break-all}
+.gname a{color:inherit;text-decoration:none}
+.status{display:inline-flex;align-items:center;gap:5px;font-size:12.5px;font-weight:600;
+ padding:2.5px 9px;border-radius:999px;white-space:nowrap}
+.status.on{background:#fff1e6;color:#c2410c;border:1px solid #fed7aa}
+.status.off{background:#f4f5f7;color:#9aa0a8;border:1px solid #e8eaed}
+.dot{width:6px;height:6px;border-radius:50%;background:currentColor;flex:0 0 6px}
+.right{text-align:right;flex:0 0 auto}
+.dl{font-size:22px;font-weight:700;letter-spacing:-.6px;line-height:1.1;font-variant-numeric:tabular-nums}
+.dl small{font-size:11px;font-weight:500;color:#9aa0a8;margin-left:2px;letter-spacing:0}
+.dlz{font-size:11.5px;margin-top:3px;font-variant-numeric:tabular-nums}
+.up{color:#dc2626}.down{color:#059669}.flat{color:#b9bec5}
+.badges{display:flex;gap:4px;flex-wrap:wrap;margin-top:9px;padding-top:9px;border-top:1px dashed #f0f2f4}
+.bd{font-size:11px;padding:1.5px 6px;border-radius:5px;background:#f4f5f7;color:#6b7280;white-space:nowrap}
+.spark{margin-top:9px}
+.spark svg{display:block;width:100%;height:30px;overflow:visible}
+.warn{margin-top:9px;font-size:11.5px;color:#b45309;background:#fffbeb;
+ border:1px solid #fde68a;border-radius:7px;padding:6px 8px;line-height:1.55}
+.warn b{color:#92400e}
+.empty{text-align:center;color:#9aa0a8;padding:40px 0;font-size:13px}
+.foot{margin-top:22px;font-size:11px;color:#a8adb5;text-align:center;line-height:1.7}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>4399游戏盒 · 关注名单</h1>
+  <div class="sub" id="sub"></div>
+  <div id="list"></div>
+  <div class="foot" id="foot"></div>
+</div>
+<script>
+const D = {"date": "2026-11-27", "started_at": "2026-11-27 14:56:51", "total_unique": 1234, "items": [{"name": "蓝色星原：旅谣", "note": "", "matched": true, "gid": "300028", "game": "蓝色星原：旅谣(官服)-上线领510抽", "candidates": [], "icon": "https://fs.img4399.com/ma/300028_logo2_006b.jpg", "download": 154630, "subscribe": 397000, "star": 6.9, "comment_count": 992, "fastplay_hot": 0, "kind": "角色", "event": "已开服上线", "tags": ["美少女", "抓宠", "模拟经营"], "link": "https://a.4399.cn/game-id-300028.html", "boards": {"new": 182, "hot": 1, "all": 4, "erci": 250}, "_delta": null, "_spark": ""}, {"name": "新宿决战", "note": "", "matched": true, "gid": "417201", "game": "新宿决战", "candidates": [{"gid": "417201", "game": "新宿决战", "download": 21115}, {"gid": "424000", "game": "新宿决战-玩家自制版", "download": 65666}], "icon": "https://fs.img4399.com/ma/417201_logo2_3a54.jpg", "download": 21115, "subscribe": 0, "star": 7.4, "comment_count": 17, "fastplay_hot": 20075, "kind": "射击", "event": "", "tags": ["射击", "点击", "模拟"], "link": "https://a.4399.cn/game-id-417201.html", "boards": {"new": 45, "hot": 165, "all": 132}, "_delta": null, "_spark": ""}, {"name": "三角洲红皮抽奖模拟器", "note": "", "matched": true, "gid": "428142", "game": "三角洲红皮抽奖模拟器-玩家自制版", "candidates": [], "icon": "https://fs.img4399.com/ma/428142_logo2_2ef5.jpg", "download": 17723, "subscribe": 0, "star": 8.2, "comment_count": 17, "fastplay_hot": 17483, "kind": "休闲", "event": "", "tags": ["休闲", "模拟器", "点击"], "link": "https://a.4399.cn/game-id-428142.html", "boards": {"new": 184, "hot": 21, "all": 94}, "_delta": null, "_spark": ""}, {"name": "呆呆鱼桌宠", "note": "", "matched": true, "gid": "424203", "game": "呆呆鱼桌宠-玩家自制版", "candidates": [], "icon": "https://fs.img4399.com/ma/424203_logo2_b816.jpg", "download": 25683, "subscribe": 0, "star": 9.6, "comment_count": 86, "fastplay_hot": 24370, "kind": "休闲", "event": "", "tags": ["休闲", "治愈", "放置"], "link": "https://a.4399.cn/game-id-424203.html", "boards": {"new": 188, "hot": 53, "all": 67}, "_delta": null, "_spark": ""}, {"name": "废狱捉迷藏", "note": "B站·飞刀班长｜已屏蔽上海福建", "matched": true, "gid": "428836", "game": "废狱捉迷藏-玩家自制版", "candidates": [], "icon": "https://fs.img4399.com/ma/428836_logo2_de54.jpg", "download": 18, "subscribe": 0, "star": "6", "comment_count": 0, "fastplay_hot": 17, "kind": "休闲", "event": "16:00试玩上线", "tags": ["休闲", "解压", "治愈"], "link": "https://a.4399.cn/game-id-428836.html", "boards": {"new": 114}, "_delta": null, "_spark": ""}]};
+const TITLES = {"hot": "热游", "subscribe": "预约", "new": "新游", "h5": "小游戏", "erci": "二次元", "all": "总榜"};
+const ORDER = ["hot", "all", "erci", "subscribe", "h5"];
+
+function fmt(n){
+  if(n>=100000000) return (n/100000000).toFixed(n>=1000000000?1:2).replace(/\.?0+$/,'')+'亿';
+  if(n>=10000) return (n/10000).toFixed(n>=1000000?0:1).replace(/\.?0+$/,'')+'万';
+  return String(n);
+}
+function deltaHtml(d){
+  if(d===null||d===undefined) return '';
+  if(d>0) return `<span class="up">↑${fmt(d)}</span>`;
+  if(d<0) return `<span class="down">↓${fmt(-d)}</span>`;
+  return '<span class="flat">持平</span>';
+}
+function render(){
+  const items = D.items.slice();
+  items.sort((a,b)=>{
+    const an=a.matched&&a.boards.new?a.boards.new:99999;
+    const bn=b.matched&&b.boards.new?b.boards.new:99999;
+    if(an!==bn) return an-bn;
+    return (b.download||0)-(a.download||0);
+  });
+  if(!items.length){ document.getElementById('list').innerHTML='<div class="empty">名单为空</div>'; return; }
+  document.getElementById('list').innerHTML = items.map(x=>{
+    if(!x.matched){
+      return `<div class="card off"><div class="top">
+        <div class="icon ph">?</div>
+        <div class="mid"><div class="gname">${x.name}</div>
+          <span class="status off"><i class="dot"></i>未在榜单找到</span></div>
+        </div></div>`;
+    }
+    const onNew = x.boards && x.boards.new;
+    const status = onNew
+      ? `<span class="status on"><i class="dot"></i>新游榜 #${onNew}</span>`
+      : `<span class="status off"><i class="dot"></i>未上新游榜</span>`;
+    const ic = x.icon ? `<img class="icon" src="${x.icon}" loading="lazy" onerror="this.style.visibility='hidden'">`
+      : `<div class="icon ph">·</div>`;
+    const others = ORDER.filter(t=>x.boards&&x.boards[t])
+      .map(t=>`<span class="bd">${TITLES[t]} #${x.boards[t]}</span>`).join('');
+    const warn = (x.candidates&&x.candidates.length)
+      ? `<div class="warn">⚠ 还命中 <b>${x.candidates.length}</b> 款相似游戏（${x.candidates.filter(c=>c.gid!==x.gid).slice(0,2).map(c=>c.game).join('、')||'—'}）。若匹配错了，请在 watchlist.json 给这款补 gid</div>` : '';
+    return `<div class="card${onNew?'':' off'}">
+      <div class="top">
+        ${ic}
+        <div class="mid">
+          <div class="gname"><a href="${x.link}" target="_blank">${x.game}</a></div>
+          ${status}
+        </div>
+        <div class="right">
+          <div class="dl">${fmt(x.download)}<small>下载</small></div>
+          <div class="dlz">${deltaHtml(x._delta)}</div>
+        </div>
+      </div>
+      ${x._spark||''}
+      ${others?`<div class="badges">${others}</div>`:''}
+      ${warn}
+    </div>`;
+  }).join('');
+}
+const ok=D.items.filter(x=>x.matched);
+const onNew=ok.filter(x=>x.boards&&x.boards.new);
+document.getElementById('sub').innerHTML =
+ `更新 <b>${D.date}</b> · 关注 <b>${D.items.length}</b> 款 · 上新游榜 <b>${onNew.length}</b> 款`;
+document.getElementById('foot').innerHTML =
+ `数字 = 4399 游戏盒下载量 · 新游榜共 186 款，会滚动换血<br>抓取于 ${D.started_at}`;
+render();
+</script>
+</body>
+</html>
