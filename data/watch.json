@@ -1,15 +1,15 @@
 {
  "date": "2026-11-27",
- "started_at": "2026-11-27 16:15:31",
+ "started_at": "2026-11-27 16:24:31",
  "boards": {
-  "new": 185,
+  "new": 188,
   "hot": 300,
   "all": 300,
-  "erci": 252,
+  "erci": 247,
   "subscribe": 270,
   "h5": 300
  },
- "total_unique": 1262,
+ "total_unique": 1259,
  "items": [
   {
    "name": "废狱捉迷藏",
@@ -25,7 +25,7 @@
    "comment_count": 0,
    "fastplay_hot": 17,
    "kind": "休闲",
-   "event": "16:00试玩上线",
+   "event": "",
    "tags": [
     "休闲",
     "解压",
@@ -33,7 +33,7 @@
    ],
    "link": "https://a.4399.cn/game-id-428836.html",
    "boards": {
-    "new": 116
+    "new": 110
    },
    "offboard": false
   },
@@ -60,6 +60,32 @@
    "link": "https://a.4399.cn/game-id-429124.html",
    "boards": {},
    "offboard": true
+  },
+  {
+   "name": "影之刃竹-竹节人侠客",
+   "note": "B站·迷之也非｜已屏蔽上海广东",
+   "matched": true,
+   "gid": "428981",
+   "game": "影之刃竹-竹节人侠客",
+   "candidates": [],
+   "icon": "https://fs.img4399.com/ma/428981_logo2_291a.jpg",
+   "download": 12,
+   "subscribe": 0,
+   "star": "6",
+   "comment_count": 0,
+   "fastplay_hot": 12,
+   "kind": "动作",
+   "event": "14:00试玩上线",
+   "tags": [
+    "动作",
+    "3D",
+    "格斗"
+   ],
+   "link": "https://a.4399.cn/game-id-428981.html",
+   "boards": {
+    "new": 83
+   },
+   "offboard": false
   }
  ]
 }
