@@ -1,6 +1,6 @@
 {
  "date": "2026-11-27",
- "started_at": "2026-11-27 16:24:31",
+ "started_at": "2026-11-27 16:30:54",
  "boards": {
   "new": 188,
   "hot": 300,
@@ -84,6 +84,34 @@
    "link": "https://a.4399.cn/game-id-428981.html",
    "boards": {
     "new": 83
+   },
+   "offboard": false
+  },
+  {
+   "name": "新宿决战",
+   "note": "B站：测试人｜已屏蔽北京地区",
+   "matched": true,
+   "gid": "417201",
+   "game": "新宿决战",
+   "candidates": [],
+   "icon": "https://fs.img4399.com/ma/417201_logo2_3a54.jpg",
+   "download": 21130,
+   "subscribe": 0,
+   "star": 7.4,
+   "comment_count": 17,
+   "fastplay_hot": 20090,
+   "kind": "射击",
+   "event": "",
+   "tags": [
+    "射击",
+    "点击",
+    "模拟"
+   ],
+   "link": "https://a.4399.cn/game-id-417201.html",
+   "boards": {
+    "new": 47,
+    "hot": 166,
+    "all": 132
    },
    "offboard": false
   }
