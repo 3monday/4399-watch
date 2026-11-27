@@ -1,15 +1,15 @@
 {
  "date": "2026-11-27",
- "started_at": "2026-11-27 16:48:54",
+ "started_at": "2026-11-27 16:53:16",
  "boards": {
-  "new": 188,
-  "hot": 300,
-  "all": 300,
-  "erci": 247,
-  "subscribe": 270,
+  "new": 204,
+  "hot": 315,
+  "all": 318,
+  "erci": 260,
+  "subscribe": 271,
   "h5": 300
  },
- "total_unique": 1259,
+ "total_unique": 1231,
  "items": [
   {
    "name": "废狱捉迷藏",
@@ -36,7 +36,7 @@
    ],
    "link": "https://a.4399.cn/game-id-428836.html",
    "boards": {
-    "new": 110
+    "new": 109
    },
    "offboard": false
   },
@@ -92,7 +92,7 @@
    ],
    "link": "https://a.4399.cn/game-id-428981.html",
    "boards": {
-    "new": 83
+    "new": 82
    },
    "offboard": false
   },
@@ -204,7 +204,7 @@
    ],
    "link": "https://a.4399.cn/game-id-428765.html",
    "boards": {
-    "new": 130
+    "new": 129
    },
    "offboard": false
   },
@@ -244,7 +244,7 @@
    ],
    "link": "https://a.4399.cn/game-id-428574.html",
    "boards": {
-    "new": 167
+    "new": 164
    },
    "offboard": false
   },
@@ -273,7 +273,7 @@
    ],
    "link": "https://a.4399.cn/game-id-428573.html",
    "boards": {
-    "new": 120
+    "new": 119
    },
    "offboard": false
   },
@@ -288,11 +288,11 @@
    "game": "三角洲干员大乱斗-玩家自制版",
    "candidates": [],
    "icon": "https://fs.img4399.com/ma/428516_logo2_96cb.jpg",
-   "download": 151,
+   "download": 153,
    "subscribe": 0,
    "star": "6",
    "comment_count": 0,
-   "fastplay_hot": 144,
+   "fastplay_hot": 146,
    "kind": "动作",
    "event": "",
    "tags": [
@@ -317,11 +317,11 @@
    "game": "三角洲灰线行动-玩家自制版",
    "candidates": [],
    "icon": "https://fs.img4399.com/ma/428385_logo2_c5f9.jpg",
-   "download": 166,
+   "download": 167,
    "subscribe": 0,
    "star": "6",
    "comment_count": 0,
-   "fastplay_hot": 161,
+   "fastplay_hot": 162,
    "kind": "射击",
    "event": "",
    "tags": [
@@ -331,7 +331,7 @@
    ],
    "link": "https://a.4399.cn/game-id-428385.html",
    "boards": {
-    "new": 43
+    "new": 45
    },
    "offboard": false
   },
@@ -390,6 +390,155 @@
    "link": "https://a.4399.cn/game-id-428732.html",
    "boards": {},
    "offboard": true
+  },
+  {
+   "name": "三角洲曼德尔砖模拟器",
+   "note": "",
+   "up": "晨露ZLQ",
+   "blocked": "已屏蔽 上海、山东地区",
+   "extra": "商务V：Summer6th-01｜个人商务V：XHeiBD",
+   "matched": true,
+   "gid": "428331",
+   "game": "三角洲曼德尔砖模拟器-无限抽枪皮",
+   "candidates": [],
+   "icon": "https://fs.img4399.com/ma/428331_logo2_107a.jpg",
+   "download": 667,
+   "subscribe": 0,
+   "star": "6",
+   "comment_count": 0,
+   "fastplay_hot": 656,
+   "kind": "休闲",
+   "event": "",
+   "tags": [
+    "休闲",
+    "模拟器",
+    "点击"
+   ],
+   "link": "https://a.4399.cn/game-id-428331.html",
+   "boards": {
+    "new": 202,
+    "hot": 219
+   },
+   "offboard": false
+  },
+  {
+   "name": "三角洲红皮抽奖模拟器",
+   "note": "",
+   "up": "晨露ZLQ",
+   "blocked": "已屏蔽 上海、山东地区",
+   "extra": "商务V：Summer6th-01｜个人商务V：XHeiBD",
+   "matched": true,
+   "gid": "428142",
+   "game": "三角洲红皮抽奖模拟器-玩家自制版",
+   "candidates": [],
+   "icon": "https://fs.img4399.com/ma/428142_logo2_2ef5.jpg",
+   "download": 18154,
+   "subscribe": 0,
+   "star": 8.3,
+   "comment_count": 18,
+   "fastplay_hot": 17907,
+   "kind": "休闲",
+   "event": "",
+   "tags": [
+    "休闲",
+    "模拟器",
+    "点击"
+   ],
+   "link": "https://a.4399.cn/game-id-428142.html",
+   "boards": {
+    "new": 187,
+    "hot": 21,
+    "all": 92
+   },
+   "offboard": false
+  },
+  {
+   "name": "嘉豪模拟器",
+   "note": "",
+   "up": "欧了么哒",
+   "blocked": "已屏蔽 上海、湖南",
+   "extra": "",
+   "matched": true,
+   "gid": "428097",
+   "game": "嘉豪模拟器-威龙过二员",
+   "candidates": [],
+   "icon": "https://fs.img4399.com/ma/428097_logo2_4a58.jpg",
+   "download": 1888,
+   "subscribe": 0,
+   "star": "6",
+   "comment_count": 7,
+   "fastplay_hot": 1835,
+   "kind": "休闲",
+   "event": "",
+   "tags": [
+    "休闲",
+    "手残党",
+    "挑战"
+   ],
+   "link": "https://a.4399.cn/game-id-428097.html",
+   "boards": {
+    "new": 193,
+    "hot": 153
+   },
+   "offboard": false
+  },
+  {
+   "name": "指数之拳",
+   "note": "",
+   "up": "桃天帝不差",
+   "blocked": "",
+   "extra": "之前要过授权了",
+   "matched": true,
+   "gid": "428096",
+   "game": "指数之拳-玩家自制版",
+   "candidates": [],
+   "icon": "https://fs.img4399.com/ma/428096_logo2_9321.jpg",
+   "download": 191,
+   "subscribe": 0,
+   "star": "6",
+   "comment_count": 0,
+   "fastplay_hot": 185,
+   "kind": "动作",
+   "event": "",
+   "tags": [
+    "动作",
+    "沙盒",
+    "魔性"
+   ],
+   "link": "https://a.4399.cn/game-id-428096.html",
+   "boards": {
+    "new": 89
+   },
+   "offboard": false
+  },
+  {
+   "name": "钓鱼之王",
+   "note": "",
+   "up": "MARK__33",
+   "blocked": "已屏蔽 上海、北京地区",
+   "extra": "粉丝交流群：1109868155",
+   "matched": true,
+   "gid": "428091",
+   "game": "钓鱼之王-玩家自制版",
+   "candidates": [],
+   "icon": "https://fs.img4399.com/ma/428091_logo2_1631.jpg",
+   "download": 108,
+   "subscribe": 0,
+   "star": "6",
+   "comment_count": 0,
+   "fastplay_hot": 96,
+   "kind": "休闲",
+   "event": "",
+   "tags": [
+    "休闲",
+    "增量",
+    "3D"
+   ],
+   "link": "https://a.4399.cn/game-id-428091.html",
+   "boards": {
+    "new": 117
+   },
+   "offboard": false
   }
  ]
 }
