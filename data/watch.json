@@ -1,6 +1,6 @@
 {
  "date": "2026-11-27",
- "started_at": "2026-11-27 15:42:33",
+ "started_at": "2026-11-27 16:15:31",
  "boards": {
   "new": 185,
   "hot": 300,
@@ -34,7 +34,32 @@
    "link": "https://a.4399.cn/game-id-428836.html",
    "boards": {
     "new": 116
-   }
+   },
+   "offboard": false
+  },
+  {
+   "name": "公理反击战",
+   "note": "B站·纯爱匈牙利｜已屏蔽上海湖南",
+   "matched": true,
+   "gid": "429124",
+   "game": "公理反击战-玩家自制版",
+   "candidates": [],
+   "icon": "https://fs.img4399.com/ma/429124_logo2_2220.jpg",
+   "download": 0,
+   "subscribe": 0,
+   "star": null,
+   "comment_count": 0,
+   "fastplay_hot": 0,
+   "kind": "动作游戏",
+   "event": "",
+   "tags": [
+    "动作",
+    "横版",
+    "像素"
+   ],
+   "link": "https://a.4399.cn/game-id-429124.html",
+   "boards": {},
+   "offboard": true
   }
  ]
 }
