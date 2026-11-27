@@ -1,6 +1,6 @@
 {
  "date": "2026-11-27",
- "started_at": "2026-11-27 16:42:41",
+ "started_at": "2026-11-27 16:45:35",
  "boards": {
   "new": 188,
   "hot": 300,
@@ -192,7 +192,8 @@
    "note": "up主：网友爱顺坤",
    "matched": false,
    "gid": "428297",
-   "candidates": []
+   "candidates": [],
+   "pending": true
   },
   {
    "name": "赛博电玩厅",
@@ -323,6 +324,30 @@
     "new": 170
    },
    "offboard": false
+  },
+  {
+   "name": "代号:系统冗余",
+   "note": "B站：小多多mmm｜已屏蔽上海、广东地区",
+   "matched": true,
+   "gid": "428732",
+   "game": "代号:系统冗余-玩家自制版",
+   "candidates": [],
+   "icon": "https://fs.img4399.com/ma/428732_logo2_3e2e.jpg",
+   "download": 1,
+   "subscribe": 0,
+   "star": null,
+   "comment_count": 0,
+   "fastplay_hot": 0,
+   "kind": "冒险游戏",
+   "event": "",
+   "tags": [
+    "像素",
+    "冒险",
+    "末日"
+   ],
+   "link": "https://a.4399.cn/game-id-428732.html",
+   "boards": {},
+   "offboard": true
   }
  ]
 }
