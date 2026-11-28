@@ -1,15 +1,15 @@
 {
- "date": "2026-11-27",
- "started_at": "2026-11-27 17:09:01",
+ "date": "2026-11-28",
+ "started_at": "2026-11-28 09:45:04",
  "boards": {
-  "new": 192,
+  "new": 184,
   "hot": 300,
   "all": 300,
-  "erci": 251,
-  "subscribe": 270,
+  "erci": 266,
+  "subscribe": 271,
   "h5": 300
  },
- "total_unique": 1266,
+ "total_unique": 1276,
  "items": [
   {
    "name": "废狱捉迷藏",
@@ -22,11 +22,11 @@
    "game": "废狱捉迷藏-玩家自制版",
    "candidates": [],
    "icon": "https://fs.img4399.com/ma/428836_logo2_de54.jpg",
-   "download": 19,
+   "download": 21,
    "subscribe": 0,
    "star": "6",
    "comment_count": 0,
-   "fastplay_hot": 18,
+   "fastplay_hot": 20,
    "kind": "休闲",
    "event": "",
    "tags": [
@@ -36,7 +36,7 @@
    ],
    "link": "https://a.4399.cn/game-id-428836.html",
    "boards": {
-    "new": 109
+    "new": 139
    },
    "offboard": false
   },
@@ -51,21 +51,23 @@
    "game": "公理反击战-玩家自制版",
    "candidates": [],
    "icon": "https://fs.img4399.com/ma/429124_logo2_2220.jpg",
-   "download": 0,
+   "download": 11,
    "subscribe": 0,
-   "star": null,
+   "star": "6",
    "comment_count": 0,
-   "fastplay_hot": 0,
-   "kind": "动作游戏",
-   "event": "",
+   "fastplay_hot": 10,
+   "kind": "动作",
+   "event": "15:00试玩上线",
    "tags": [
     "动作",
     "横版",
     "像素"
    ],
    "link": "https://a.4399.cn/game-id-429124.html",
-   "boards": {},
-   "offboard": true
+   "boards": {
+    "new": 103
+   },
+   "offboard": false
   },
   {
    "name": "影之刃竹-竹节人侠客",
@@ -78,11 +80,11 @@
    "game": "影之刃竹-竹节人侠客",
    "candidates": [],
    "icon": "https://fs.img4399.com/ma/428981_logo2_291a.jpg",
-   "download": 12,
+   "download": 14,
    "subscribe": 0,
    "star": "6",
    "comment_count": 0,
-   "fastplay_hot": 12,
+   "fastplay_hot": 14,
    "kind": "动作",
    "event": "14:00试玩上线",
    "tags": [
@@ -92,7 +94,7 @@
    ],
    "link": "https://a.4399.cn/game-id-428981.html",
    "boards": {
-    "new": 81
+    "new": 99
    },
    "offboard": false
   },
@@ -107,21 +109,23 @@
    "game": "弹幕深渊-玩家自制版",
    "candidates": [],
    "icon": "https://fs.img4399.com/ma/429144_logo2_63b1.jpg",
-   "download": 0,
+   "download": 18,
    "subscribe": 0,
-   "star": null,
+   "star": "6",
    "comment_count": 0,
-   "fastplay_hot": 0,
-   "kind": "射击游戏",
-   "event": "",
+   "fastplay_hot": 15,
+   "kind": "射击",
+   "event": "16:00试玩上线",
    "tags": [
     "像素",
     "Roguelike",
     "射击"
    ],
    "link": "https://a.4399.cn/game-id-429144.html",
-   "boards": {},
-   "offboard": true
+   "boards": {
+    "new": 78
+   },
+   "offboard": false
   },
   {
    "name": "不小心成为了国王2",
@@ -134,11 +138,11 @@
    "game": "不小心成为了国王2-攻城略地模拟器",
    "candidates": [],
    "icon": "https://fs.img4399.com/ma/428960_logo2_1aa2.jpg",
-   "download": 17,
+   "download": 23,
    "subscribe": 0,
    "star": "6",
    "comment_count": 0,
-   "fastplay_hot": 17,
+   "fastplay_hot": 22,
    "kind": "策略",
    "event": "14:00试玩上线",
    "tags": [
@@ -148,7 +152,7 @@
    ],
    "link": "https://a.4399.cn/game-id-428960.html",
    "boards": {
-    "new": 82
+    "new": 100
    },
    "offboard": false
   },
@@ -190,11 +194,11 @@
    "game": "根本没有这么愤怒的小鸟-玩家自制版",
    "candidates": [],
    "icon": "https://fs.img4399.com/ma/428765_logo2_efd7.jpg",
-   "download": 10,
+   "download": 17,
    "subscribe": 0,
    "star": "6",
    "comment_count": 0,
-   "fastplay_hot": 10,
+   "fastplay_hot": 17,
    "kind": "休闲",
    "event": "",
    "tags": [
@@ -204,7 +208,7 @@
    ],
    "link": "https://a.4399.cn/game-id-428765.html",
    "boards": {
-    "new": 132
+    "new": 125
    },
    "offboard": false
   },
@@ -230,12 +234,12 @@
    "game": "赛博电玩厅-玩家自制版",
    "candidates": [],
    "icon": "https://fs.img4399.com/ma/428574_logo2_86f6.jpg",
-   "download": 11,
+   "download": 12,
    "subscribe": 0,
-   "star": "6",
+   "star": null,
    "comment_count": 0,
-   "fastplay_hot": 10,
-   "kind": "休闲",
+   "fastplay_hot": 0,
+   "kind": "休闲娱乐",
    "event": "",
    "tags": [
     "像素",
@@ -243,10 +247,8 @@
     "休闲"
    ],
    "link": "https://a.4399.cn/game-id-428574.html",
-   "boards": {
-    "new": 167
-   },
-   "offboard": false
+   "boards": {},
+   "offboard": true
   },
   {
    "name": "摸鱼大师",
@@ -259,11 +261,11 @@
    "game": "摸鱼大师-鱼塘模拟器",
    "candidates": [],
    "icon": "https://fs.img4399.com/ma/428573_logo2_cce0.jpg",
-   "download": 23,
+   "download": 29,
    "subscribe": 0,
    "star": "6",
    "comment_count": 1,
-   "fastplay_hot": 23,
+   "fastplay_hot": 29,
    "kind": "休闲",
    "event": "",
    "tags": [
@@ -273,7 +275,7 @@
    ],
    "link": "https://a.4399.cn/game-id-428573.html",
    "boards": {
-    "new": 112
+    "new": 127
    },
    "offboard": false
   },
@@ -288,11 +290,11 @@
    "game": "三角洲干员大乱斗-玩家自制版",
    "candidates": [],
    "icon": "https://fs.img4399.com/ma/428516_logo2_96cb.jpg",
-   "download": 153,
+   "download": 223,
    "subscribe": 0,
    "star": "6",
-   "comment_count": 0,
-   "fastplay_hot": 146,
+   "comment_count": 1,
+   "fastplay_hot": 216,
    "kind": "动作",
    "event": "",
    "tags": [
@@ -302,7 +304,7 @@
    ],
    "link": "https://a.4399.cn/game-id-428516.html",
    "boards": {
-    "new": 48
+    "new": 49
    },
    "offboard": false
   },
@@ -317,11 +319,11 @@
    "game": "三角洲灰线行动-玩家自制版",
    "candidates": [],
    "icon": "https://fs.img4399.com/ma/428385_logo2_c5f9.jpg",
-   "download": 167,
+   "download": 215,
    "subscribe": 0,
    "star": "6",
    "comment_count": 0,
-   "fastplay_hot": 162,
+   "fastplay_hot": 208,
    "kind": "射击",
    "event": "",
    "tags": [
@@ -331,7 +333,7 @@
    ],
    "link": "https://a.4399.cn/game-id-428385.html",
    "boards": {
-    "new": 45
+    "new": 62
    },
    "offboard": false
   },
@@ -346,11 +348,11 @@
    "game": "机战之王-玩家自制版",
    "candidates": [],
    "icon": "https://fs.img4399.com/ma/428363_logo2_eb78.jpg",
-   "download": 18,
+   "download": 20,
    "subscribe": 0,
    "star": "6",
    "comment_count": 0,
-   "fastplay_hot": 18,
+   "fastplay_hot": 20,
    "kind": "敏捷",
    "event": "",
    "tags": [
@@ -360,7 +362,7 @@
    ],
    "link": "https://a.4399.cn/game-id-428363.html",
    "boards": {
-    "new": 173
+    "new": 151
    },
    "offboard": false
   },
@@ -402,11 +404,11 @@
    "game": "三角洲曼德尔砖模拟器-无限抽枪皮",
    "candidates": [],
    "icon": "https://fs.img4399.com/ma/428331_logo2_107a.jpg",
-   "download": 669,
+   "download": 882,
    "subscribe": 0,
    "star": "6",
    "comment_count": 0,
-   "fastplay_hot": 658,
+   "fastplay_hot": 869,
    "kind": "休闲",
    "event": "",
    "tags": [
@@ -416,8 +418,8 @@
    ],
    "link": "https://a.4399.cn/game-id-428331.html",
    "boards": {
-    "new": 18,
-    "hot": 219
+    "new": 20,
+    "hot": 213
    },
    "offboard": false
   },
@@ -432,11 +434,11 @@
    "game": "三角洲红皮抽奖模拟器-玩家自制版",
    "candidates": [],
    "icon": "https://fs.img4399.com/ma/428142_logo2_2ef5.jpg",
-   "download": 18224,
+   "download": 23384,
    "subscribe": 0,
-   "star": 8.3,
-   "comment_count": 18,
-   "fastplay_hot": 17976,
+   "star": 8,
+   "comment_count": 20,
+   "fastplay_hot": 23060,
    "kind": "休闲",
    "event": "",
    "tags": [
@@ -447,8 +449,8 @@
    "link": "https://a.4399.cn/game-id-428142.html",
    "boards": {
     "new": 3,
-    "hot": 21,
-    "all": 92
+    "hot": 15,
+    "all": 79
    },
    "offboard": false
   },
@@ -463,11 +465,11 @@
    "game": "嘉豪模拟器-威龙过二员",
    "candidates": [],
    "icon": "https://fs.img4399.com/ma/428097_logo2_4a58.jpg",
-   "download": 1896,
+   "download": 2499,
    "subscribe": 0,
    "star": "6",
-   "comment_count": 7,
-   "fastplay_hot": 1843,
+   "comment_count": 9,
+   "fastplay_hot": 2429,
    "kind": "休闲",
    "event": "",
    "tags": [
@@ -478,7 +480,7 @@
    "link": "https://a.4399.cn/game-id-428097.html",
    "boards": {
     "new": 9,
-    "hot": 153
+    "hot": 140
    },
    "offboard": false
   },
@@ -493,11 +495,11 @@
    "game": "指数之拳-玩家自制版",
    "candidates": [],
    "icon": "https://fs.img4399.com/ma/428096_logo2_9321.jpg",
-   "download": 192,
+   "download": 228,
    "subscribe": 0,
    "star": "6",
    "comment_count": 0,
-   "fastplay_hot": 186,
+   "fastplay_hot": 219,
    "kind": "动作",
    "event": "",
    "tags": [
@@ -507,7 +509,7 @@
    ],
    "link": "https://a.4399.cn/game-id-428096.html",
    "boards": {
-    "new": 93
+    "new": 71
    },
    "offboard": false
   },
@@ -522,11 +524,11 @@
    "game": "钓鱼之王-玩家自制版",
    "candidates": [],
    "icon": "https://fs.img4399.com/ma/428091_logo2_1631.jpg",
-   "download": 108,
+   "download": 121,
    "subscribe": 0,
    "star": "6",
    "comment_count": 0,
-   "fastplay_hot": 96,
+   "fastplay_hot": 107,
    "kind": "休闲",
    "event": "",
    "tags": [
@@ -536,7 +538,7 @@
    ],
    "link": "https://a.4399.cn/game-id-428091.html",
    "boards": {
-    "new": 120
+    "new": 129
    },
    "offboard": false
   },
@@ -562,11 +564,11 @@
    "game": "三角洲锻刀模拟器-玩家自制版",
    "candidates": [],
    "icon": "https://fs.img4399.com/ma/427907_logo2_54e9.jpg",
-   "download": 717,
+   "download": 852,
    "subscribe": 0,
    "star": "6",
    "comment_count": 1,
-   "fastplay_hot": 708,
+   "fastplay_hot": 842,
    "kind": "休闲",
    "event": "",
    "tags": [
@@ -576,7 +578,7 @@
    ],
    "link": "https://a.4399.cn/game-id-427907.html",
    "boards": {
-    "new": 39
+    "new": 38
    },
    "offboard": false
   },
@@ -591,11 +593,11 @@
    "game": "测测你能娶到哪个神人-玩家自制版",
    "candidates": [],
    "icon": "https://fs.img4399.com/ma/427886_logo2_57a4.jpg",
-   "download": 181,
+   "download": 196,
    "subscribe": 0,
    "star": "6",
    "comment_count": 0,
-   "fastplay_hot": 179,
+   "fastplay_hot": 193,
    "kind": "休闲",
    "event": "",
    "tags": [
@@ -605,7 +607,7 @@
    ],
    "link": "https://a.4399.cn/game-id-427886.html",
    "boards": {
-    "new": 107
+    "new": 119
    },
    "offboard": false
   },
@@ -620,7 +622,7 @@
    "game": "宝黄天交易所-蛊真人",
    "candidates": [],
    "icon": "https://fs.img4399.com/ma/427785_logo2_f40a.jpg",
-   "download": 52,
+   "download": 57,
    "subscribe": 0,
    "star": null,
    "comment_count": 0,
@@ -647,11 +649,11 @@
    "game": "膨胀的奶娃-玩家自制版",
    "candidates": [],
    "icon": "https://fs.img4399.com/ma/427721_logo2_70ff.jpg",
-   "download": 298,
+   "download": 304,
    "subscribe": 0,
    "star": "6",
    "comment_count": 1,
-   "fastplay_hot": 291,
+   "fastplay_hot": 297,
    "kind": "休闲",
    "event": "",
    "tags": [
@@ -661,7 +663,7 @@
    ],
    "link": "https://a.4399.cn/game-id-427721.html",
    "boards": {
-    "new": 85
+    "new": 112
    },
    "offboard": false
   },
@@ -676,11 +678,11 @@
    "game": "咒术回战·跳一跳-玩家自制版",
    "candidates": [],
    "icon": "https://fs.img4399.com/ma/427719_logo2_8453.jpg",
-   "download": 336,
+   "download": 362,
    "subscribe": 0,
    "star": "6",
    "comment_count": 1,
-   "fastplay_hot": 326,
+   "fastplay_hot": 352,
    "kind": "敏捷",
    "event": "",
    "tags": [
@@ -690,7 +692,7 @@
    ],
    "link": "https://a.4399.cn/game-id-427719.html",
    "boards": {
-    "new": 97
+    "new": 92
    },
    "offboard": false
   },
@@ -705,11 +707,11 @@
    "game": "战地指挥官-情怀复活",
    "candidates": [],
    "icon": "https://fs.img4399.com/ma/427485_logo2_9b80.jpg",
-   "download": 147,
+   "download": 148,
    "subscribe": 0,
    "star": "6",
    "comment_count": 1,
-   "fastplay_hot": 53,
+   "fastplay_hot": 54,
    "kind": "策略",
    "event": "",
    "tags": [
@@ -719,7 +721,7 @@
    ],
    "link": "https://a.4399.cn/game-id-427485.html",
    "boards": {
-    "new": 136
+    "new": 159
    },
    "offboard": false
   },
@@ -756,7 +758,7 @@
    "game": "极寒末世模拟器-玩家自制版",
    "candidates": [],
    "icon": "https://fs.img4399.com/ma/427531_logo2_683d.jpg",
-   "download": 69,
+   "download": 70,
    "subscribe": 0,
    "star": null,
    "comment_count": 0,
@@ -783,11 +785,11 @@
    "game": "无畏契约每日商店-玩家自制版",
    "candidates": [],
    "icon": "https://fs.img4399.com/ma/427511_logo2_b3a0.jpg",
-   "download": 279,
+   "download": 314,
    "subscribe": 0,
    "star": "6",
    "comment_count": 0,
-   "fastplay_hot": 276,
+   "fastplay_hot": 310,
    "kind": "休闲",
    "event": "",
    "tags": [
@@ -797,7 +799,7 @@
    ],
    "link": "https://a.4399.cn/game-id-427511.html",
    "boards": {
-    "new": 86
+    "new": 79
    },
    "offboard": false
   }
